@@ -12,5 +12,15 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Backend tests
+
+This project now includes a FastAPI test suite in the [tests](tests) directory.
+
+Run the backend tests locally with:
+
+```bash
+pytest -q tests/test_app.py
+```
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
